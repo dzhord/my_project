@@ -1,4 +1,5 @@
-avito.html.vscode/
+avito.html
+.vscode/
 __pycache__/
 env/
 config.py
